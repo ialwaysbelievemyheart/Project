@@ -1,2 +1,4 @@
 this is pavan
-this is kumar
+<<<<<<< HEAD
+this is gangishetti kumar
+>>>>>>> 7043c07e65db875a19bb6040d55bcba27fe4341b
