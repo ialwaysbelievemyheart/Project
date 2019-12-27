@@ -21,13 +21,64 @@
 # Registers:
 
 # File marks:
-'0  21  19  /etc/sudoers
-'1  1  4  /HelloWorld.java
-'2  1  0  /HelloWorld.hava
-'3  1  4  ~/HelloWorld.java
-'4  102  31  ~/.bashrc
+'0  2  33  /etc/profile.d/mavenenv.sh
+'1  21  19  /etc/sudoers
+'2  1  4  /HelloWorld.java
+'3  1  0  /HelloWorld.hava
+'4  1  4  ~/HelloWorld.java
+'5  102  31  ~/.bashrc
 
 # Jumplist (newest first):
+-'  2  33  /etc/profile.d/mavenenv.sh
+-'  1  0  /etc/profile.d/mavenenv.sh
+-'  21  19  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  1  4  /HelloWorld.java
+-'  1  0  /HelloWorld.hava
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  0  /HelloWorld.hava
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  4  /HelloWorld.java
+-'  1  0  /HelloWorld.hava
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  0  /HelloWorld.hava
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  4  ~/HelloWorld.java
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  102  31  ~/.bashrc
+-'  1  0  ~/.bashrc
 -'  21  19  /etc/sudoers
 -'  1  0  /etc/sudoers
 -'  1  4  /HelloWorld.java
@@ -78,6 +129,12 @@
 -'  1  0  ~/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> /etc/profile.d/mavenenv.sh
+	"	2	33
+	^	2	34
+	.	2	0
+	+	2	0
 
 > /etc/sudoers
 	"	21	19
